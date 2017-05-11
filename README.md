@@ -36,7 +36,7 @@ Regarding the filters they are optional. The filters implemented are the basic o
     Report bugs to <bruno.fernandos@yahoo.com>.
 
 ## Version
-  v.1.0.0
+  v.1.0.1
   
 ## Prerequisites
  * [libpcap](http://www.tcpdump.org/#latest-releases)

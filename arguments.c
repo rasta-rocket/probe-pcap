@@ -4,7 +4,7 @@
 #include <string.h>
 #include <argp.h>
 
-const char *argp_program_version = "probe-pcap 1.0.0";
+const char *argp_program_version = "probe-pcap 1.0.1";
 const char *argp_program_bug_address = "<bruno.fernandos@yahoo.com>";
 static char doc[] = "pcap exercise";
 static char args_doc[] = "[FILTERS...]";
