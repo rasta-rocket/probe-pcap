@@ -27,7 +27,7 @@ Regarding the filters they are optional. The filters implemented are the basic o
 
         -i, --interfaces=<name>    interface name
         -?, --help                 Give this help list
-        --usage                Give a short usage message
+        --usage                    Give a short usage message
         -V, --version              Print program version
 
     Mandatory or optional arguments to long options are also mandatory or optional
